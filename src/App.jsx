@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import './app.scss';
-import dd from './assets/2d.png';
 import murdoc from './assets/murdoc.png';
+import dd from './assets/2d.png';
 import noodle from './assets/noodle.png';
 import russel from './assets/russel.png';
 
